@@ -27,9 +27,19 @@
   -  Eating crickets in Hanoi
   -  Walking El Camino de Santiago in Spain (pictured above!)
 
+<h3 align="left">Projects</h3>
+<p>
+  <a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/234340527-a18827f2-59c9-4a79-a83d-019217fa954e.png" alt="Zilloh project"/></a>
+</p>
+<p>
+  <a align="left" href="https://magellan-wpae.onrender.com/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/234339742-29cd06ed-52b7-4e92-9be4-d50598f232c6.png" alt="Magellan project"/></a>
+</p>
+<p>
+  <a align="left" href="https://stevenpaalz.github.io/BigDuckHunter/"><img width="25%" src="https://user-images.githubusercontent.com/121642083/234338883-af45a87e-965b-4f29-b912-43e49ee45e96.png" alt="Big Duck Hunter project"/></a>
+</p>
 
 <h3 align="left">Connect with me</h3>
 <p>
-  <a align="left"></a>
+  <a align="left" href="https://www.linkedin.com/in/steve-paalz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
