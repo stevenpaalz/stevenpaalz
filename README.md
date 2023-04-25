@@ -1,8 +1,21 @@
-![88ce0191bfc249b6aae1b472158cccc4-superJumbo](https://user-images.githubusercontent.com/121642083/234324609-89bc3828-782e-4c35-899b-4b1149a06bc2.jpg)
+![IMG_3258](https://user-images.githubusercontent.com/121642083/234327995-8d155cc1-bd2f-4052-880a-b7d14a0042ef.jpeg)
 
 <h1 align="center">Hey, I'm Steve Paalz</h1>
 
 <h3 align="center">I'm a NYC-based full stack software engineer</h3>
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /></a>
+  <a href="https://rubyonrails.org/"><img src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="Rails" /></a>
+  <a href="https://www.ruby-lang.org/en/"><img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" /></a>
+  <a href="https://react.dev/"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /></a>
+  <a href="https://redux.js.org/"><img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /></a>
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRES" /></a>
+  <a href="https://expressjs.com/"><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" /></a>
+  <a href="https://nodejs.org/en"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /></a>
+  <a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" /></a>
+  
+</p>
 
 - 🔭 I’m currently working on **Interview Prep**
 - 🌱 I’m currently learning **MongoDB**
@@ -10,20 +23,13 @@
 - 📫 How to reach me: **stevenpaalz@gmail.com**
 - ⚡ Fun fact: I love to travel, a few highlights:
   -  Running with the bulls in Pamplona
-  -  Hiking to Macchu Picchu
-  -  Walking El Camino de Santiago in Spain
+  -  Hiking to Machu Picchu
+  -  Eating crickets in Hanoi
+  -  Walking El Camino de Santiago in Spain (pictured above!)
 
-<!--
-**stevenpaalz/stevenpaalz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3 align="left">Connect with me</h3>
+<p>
+  <a align="left"></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
