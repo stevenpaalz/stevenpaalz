@@ -40,9 +40,9 @@
 
 <h3 align="left">Connect with me</h3>
 <p>
-  <a align="left" href="https://www.linkedin.com/in/steve-paalz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-  <a align="left" href="https://wellfound.com/u/steven-paalz" target="_blank"><img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="angellist" /></a>
-  <a align="left" href="mailto:stevenpaalz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+  <a align="left" href="https://www.linkedin.com/in/steve-paalz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a align="left" href="https://wellfound.com/u/steven-paalz"><img src="https://img.shields.io/badge/AngelList-000000?style=for-the-badge&logo=AngelList&logoColor=white" alt="angellist" /></a>
+  <a align="left" href="mailto:stevenpaalz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
 <h3 align="left">My Statistics</h3>
