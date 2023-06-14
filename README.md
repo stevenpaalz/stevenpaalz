@@ -17,7 +17,7 @@
 </p>
 
 - 🔭 I’m currently working on **Interview Prep**
-- 🌱 I’m currently learning **MongoDB**
+- 🌱 I’m currently learning **TypeScript**
 - 💬 Ask me about **JavaScript, React, where to find the best burger in New York**
 - 👷‍♂️ You can see all of my current projects at: https://stevenpaalz.github.io/
 - 📫 How to reach me: **stevenpaalz@gmail.com**
